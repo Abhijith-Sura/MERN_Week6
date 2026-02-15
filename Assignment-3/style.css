@@ -1,0 +1,21 @@
+body {
+    background-color: #e8e2d0;
+    font-family: Arial;
+}
+
+.container {
+    width: 700px;
+    margin: 40px auto;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+h3 {
+    color: orange;
+}
+
+p {
+    font-size: 14px;
+}

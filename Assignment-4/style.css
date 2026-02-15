@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eee;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    width: 700px;
+    margin: auto;
+    background: #dfe8c7;
+    padding: 20px;
+    box-shadow: 0 0 10px #999;
+}
+
+h1 {
+    text-align: center;
+}
+
+.intro {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.intro img {
+    width: 150px;
+    height: 150px;
+}
+
+ol, ul {
+    margin-left: 20px;
+}
+
+.link-btn {
+    display: inline-block;
+    margin-top: 20px;
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.content img {
+    width: 300px;
+    margin: 10px;
+}
+
+.left-img {
+    float: left;
+}
+
+.right-img {
+    float: right;
+}
+
+.content p {
+    text-align: justify;
+}
